@@ -25,4 +25,3 @@ package.json
 README.md
 ```
 
-Seletores **semânticos** por texto/hierarquia (não dependem de classes/ids). Arraste-e-solte por coordenadas.
